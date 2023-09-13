@@ -24,7 +24,7 @@ class MarkovCollager:
                 for next_motif in self.motifs]
         )
 
-    def choose_combination(self, current_motif="cake", length=5):
+    def choose_combination(self, current_motif="bowls", length=5):
         """ Function that calls previous function get_next_motif to create
         an array of motif names that will determine the contents of the collage.
             Args:
