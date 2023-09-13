@@ -35,4 +35,29 @@ and change `/Users/tomalley/markov-artwork/images/` to `Users/<Your username her
 - [ ] Run test.py to display the collage. The output should be similar to: 
  `Here's the combination: ['rice', 'cake', 'salmon', 'fishhead', 'lindt']
 3`
-Where the combination array contains the names of the motifs in the collage, and the following number (0, 1, 2, or 3) is the value of the “coin” variable. The collage will output in a new window on your desktop.
+where the combination array contains the names of the motifs in the collage, and the following number (0, 1, 2, or 3) is the value of the “coin” variable. The collage will output in a new window on your desktop.
+
+## Sources
+
+### Pictures and artwork commentary
+
+https://sebastiangladstone.com/exhibitions/13-stephanie-h.-shih-new-world-mall/
+
+https://www.culturedmag.com/article/2020/06/26/ceramic-artist-stephanie-h-shih-on-the-meaning-of-memory-and-clay
+
+https://www.culturedmag.com/article/2020/06/26/ceramic-artist-stephanie-h-shih-on-the-meaning-of-memory-and-clay
+
+https://www.hashimotocontemporary.com/exhibitions/45/works/artworks-2943-stephanie-h.-shih-kikkoman-soy-sauce-2019/
+
+https://www.npr.org/sections/thesalt/2019/01/04/682182165/through-food-art-asian-americans-stop-pushing-heritage-to-the-back-burner
+
+https://garage.vice.com/en_us/article/vb9bym/stephanie-shih-food-ceramics’
+
+https://www.creativeboom.com/inspiration/stephanie-h-shih/
+
+https://stephaniehshih.com/work
+
+### Collaging resource:
+
+https://holypython.com/python-pil-tutorial/creating-photo-collages/
+
